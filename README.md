@@ -6,4 +6,4 @@ Participated in a Covid19 Detector team project, where we:
 
 • Prepossessed the X-ray data-set images, then applied normalization and standardization using Numpy library in Python, and used TensorFlow to apply the CNN model.
 
-• Achieved an accuracy of 81% using 20 epochs and 32 batch size.
+• Achieved an accuracy of 99% using 30 epochs and 100 batch size.
